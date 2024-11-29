@@ -36,9 +36,9 @@ News
 - Check status by going to the repository settings, in the "GitHub pages" section
 --> 
 # News
-- [July 2024] Joined FloridaPoly as an assistant professor. 
-- [April 2024] Defended my Ph.D. thesis titled as “Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking”.
-- [February 2024] Our Paper "Base station gateway to secure user channel access at the first hop edge" is accepted in Computer Networks.
+- [Jul 2024] Joined FloridaPoly as an assistant professor. 
+- [Apr 2024] Defended my Ph.D. thesis titled as “Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking”.
+- [Feb 2024] Our Paper [Base station gateway to secure user channel access at the first hop edge](https://www.sciencedirect.com/science/article/abs/pii/S1389128623006102) is accepted in Computer Networks.
 
 
 <!--
