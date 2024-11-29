@@ -38,7 +38,7 @@ News
 # News
 - [Jul 2024] Joined FloridaPoly as an Assistant Professor in the Department of Computer Science. 
 - [Apr 2024] Defended my Ph.D. thesis titled as [Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking](https://www.proquest.com/openview/cfc4748b154105e621a63c882c51812f/1?pq-origsite=gscholar&cbl=18750&diss=y).
-- [Mar 2024] Our Paper [Secure Aggregation for Privacy-preserving Federated Learning in Vehicular Networks](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dl.acm.org/doi/pdf/10.1145/3657644) is accepted in JATS'24.
+- [Mar 2024] Our Paper [Secure Aggregation for Privacy-preserving Federated Learning in Vehicular Networks](https://dl.acm.org/doi/10.1145/3657644) is accepted in JATS'24.
 - [Feb 2024] Our Paper [Base station gateway to secure user channel access at the first hop edge](https://www.sciencedirect.com/science/article/abs/pii/S1389128623006102) is accepted in Computer Networks.
 - [Jan 2023] Got Best Demo Paper Award in IEEE CCNC'23. 
 - [Jan 2023] Attended IEEE CCNC'23 to present our paper [Version++: Cryptocurrency blockchain handshaking with software assurance](https://ieeexplore.ieee.org/abstract/document/10059985).
