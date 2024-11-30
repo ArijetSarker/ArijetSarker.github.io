@@ -6,6 +6,18 @@ permalink: /publications/
 
 <!-- # Publications -->
 
+[14] Ken Lew, Arijet Sarker, Simeon Wuthier, Jinoh Kim, Jonghyun Kim, and Sang-Yoon Chang. [Distributed Software Build Assurance for Software Supply Chain Integrity.](https://www.mdpi.com/2076-3417/14/20/9262) Applied Sciences 14, no. 20 (2024): 9262.
+
+[13] Sarker, Arijet, Simeon Wuthier, Jinoh Kim, Jonghyun Kim, and Sang-Yoon Chang. [Blockchain Handshaking with Software Assurance: Version++ Protocol for Bitcoin Cryptocurrency.](https://www.mdpi.com/2079-9292/13/19/3857) Electronics 13, no. 19 (2024): 3857.
+
+[12] Sang-Yoon Chang, Arijet Sarker, Simeon Wuthier, Jinoh Kim, Jonghyun Kim, and Xiaobo Zhou. [Base station gateway to secure user channel access at the first hop edge.](https://www.sciencedirect.com/science/article/abs/pii/S1389128623006102) Computer Networks 240 (2024): 110165.
+
+[11] SangHyun Byun, Arijet Sarker, Sang-Yoon Chang, and Jugal Kalita. [Secure Aggregation for Privacy-preserving Federated Learning in Vehicular Networks.](https://dl.acm.org/doi/full/10.1145/3657644) Journal on Autonomous Transportation Systems (2024).
+
+[10] SangHyun Byun, Arijet Sarker, Ken Lew, Jugal Kalita, and Sang-Yoon Chang. [Privacy-Preserving Trust Management For Vehicular Communications and Federated Learning.](https://ieeexplore.ieee.org/abstract/document/10165137) In 2023 Silicon Valley Cybersecurity Conference (SVCC), pp. 1-8. IEEE, 2023.
+
+[9] Yueyang Li, Luyi Li, Ruxue Luo, Yuzhen Chen, Arijet Sarker, Sang-Yoon Chang, and Wenjun Fan. [Investigation and Countermeasure toward Unintentional Access to Docker Container.](https://ieeexplore.ieee.org/abstract/document/10165201) In 2023 Silicon Valley Cybersecurity Conference (SVCC), pp. 1-6. IEEE, 2023.
+
 [8] Sarker, Arijet, Simeon Wuthier, Jinoh Kim, Jonghyun Kim, and Sang-Yoon Chang. [Version++: Cryptocurrency blockchain handshaking with software assurance.](https://ieeexplore.ieee.org/abstract/document/10059985) In 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 804-809. IEEE, 2023.
 
 [7] Sarker, Arijet, Simeon Wuthier, Jinoh Kim, Jonghyun Kim, and Sang-Yoon Chang. [Version++ Protocol Demonstration for Cryptocurrency Blockchain Handshaking with Software Assurance.](https://ieeexplore.ieee.org/abstract/document/10059971) In 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 915-916. IEEE, 2023.
