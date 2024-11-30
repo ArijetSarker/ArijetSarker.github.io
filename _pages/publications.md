@@ -7,7 +7,9 @@ permalink: /publications/
 <!-- Manual Google Scholar Link -->
 <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=QsFtTzUAAAAJ&hl=en">my Google Scholar profile</a>.</div>
 
-<!-- # Publications -->
+
+
+### Publications
 
 [14] Ken Lew, **Arijet Sarker**, Simeon Wuthier, Jinoh Kim, Jonghyun Kim, and Sang-Yoon Chang. [Distributed Software Build Assurance for Software Supply Chain Integrity.](https://www.mdpi.com/2076-3417/14/20/9262) Applied Sciences 14, no. 20 (2024): 9262.
 
