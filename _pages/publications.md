@@ -6,7 +6,11 @@ permalink: /publications/
 
 <!-- # Publications -->
 
+[8] Sarker, Arijet, Simeon Wuthier, Jinoh Kim, Jonghyun Kim, and Sang-Yoon Chang. [Version++: Cryptocurrency blockchain handshaking with software assurance.](https://ieeexplore.ieee.org/abstract/document/10059985) In 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 804-809. IEEE, 2023.
 
+[7] Sarker, Arijet, Simeon Wuthier, Jinoh Kim, Jonghyun Kim, and Sang-Yoon Chang. [Version++ Protocol Demonstration for Cryptocurrency Blockchain Handshaking with Software Assurance.](https://ieeexplore.ieee.org/abstract/document/10059971) In 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 915-916. IEEE, 2023.
+
+[6] Sarker, Arijet, SangHyun Byun, Manohar Raavi, Jinoh Kim, Jonghyun Kim, and Sang‐Yoon Chang. [Dynamic ID randomization for user privacy in mobile network.](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2022-0181) ETRI Journal 44, no. 6 (2022): 903-914.
 
 [5] Manohar Raavi, Simeon Wuthier, Arijet Sarker, Jinoh Kim, Jong-Hyun Kim, and Sang-Yoon Chang. [Towards Securing Availability in 5G: Analyzing the Injection Attack Impact on Core Network.](https://link.springer.com/chapter/10.1007/978-3-030-96057-5_10) In Silicon Valley Cybersecurity Conference, pp. 143-154. Cham: Springer International Publishing, 2021.
 
