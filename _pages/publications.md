@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Publications
+<!-- # Publications -->
 
 ## 1. Paper Title Number 1  
 **Authors**: Your Name, Collaborator Name  
