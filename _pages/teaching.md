@@ -1,16 +1,14 @@
 ---
 layout: single
 title: "Teaching Experience"
-permalink: /teaching/
+permalink: /teachings/
 ---
 
 # Teaching Experience
 
 ## Florida Polytechnic University 
 - **Assistant Professor, CAP 4612 Machine Learning**, Fall 2024  
-  Duties: teaching lecture classes, designing questions for assignments, quizzes, midterm exams, and final exams, supervising students’ projects, proctoring exams, grading, and holding office hours.
-
-- **Assistant Professor, COP 3337 Object-Oriented Programming (C++)**, Fall 2024  
+  - **Assistant Professor, COP 3337 Object-Oriented Programming (C++)**, Fall 2024  
   Duties: teaching lecture classes, designing questions for assignments, quizzes, midterm exams, and final exams, proctoring exams, grading, and holding office hours.
 
 ## University of Colorado Colorado Springs (UCCS)
