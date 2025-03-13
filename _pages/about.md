@@ -36,6 +36,7 @@ News
 - Check status by going to the repository settings, in the "GitHub pages" section
 --> 
 # News
+- [Sep 2024] Andrew joined our lab. Welcome Andrew! 
 - [Jul 2024] Satyam joined our lab. Welcome Satyam! 
 - [Jul 2024] Joined FloridaPoly as an Assistant Professor in the Department of Computer Science. 
 - [Apr 2024] Defended my Ph.D. thesis titled as [Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking](https://www.proquest.com/openview/cfc4748b154105e621a63c882c51812f/1?pq-origsite=gscholar&cbl=18750&diss=y).
