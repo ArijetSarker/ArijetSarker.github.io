@@ -36,6 +36,7 @@ News
 - Check status by going to the repository settings, in the "GitHub pages" section
 --> 
 # News
+- [March 2025] Satyam got a tech fee award for his e-voting project. Congrats, Satyam! 
 - [Sep 2024] Andrew joined our lab. Welcome Andrew! 
 - [Jul 2024] Satyam joined our lab. Welcome Satyam! 
 - [Jul 2024] Joined FloridaPoly as an Assistant Professor in the Department of Computer Science. 
