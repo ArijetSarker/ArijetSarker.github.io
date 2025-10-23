@@ -28,7 +28,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 News
 ======
 - [July 2024] Joined FloridaPoly as an assistant professor. 
-- [April 2024] Defended my Ph.D. thesis titled as “Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking”.
+- [April 2024] Defended my Ph.D. thesis titled as “Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking” (Advisor: Dr. Sang-Yoon Chang)
 - Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 - Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 - Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
