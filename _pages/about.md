@@ -12,7 +12,7 @@ resolving security and privacy issues in distributed networking systems. I earne
 University of Colorado Colorado Springs (UCCS).
 
 
-**Research Areas:** Cellular Network, Distributed Network, Vehicular Network, Blockchain, Electronic Voting, Software Assurance, and Supply Chain Integrity. 
+**Research Areas:** Cellular Network (5G/6G), Distributed Network, Vehicular Network, Blockchain, Electronic Voting, Software Assurance, and Supply Chain Integrity. 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 -->
