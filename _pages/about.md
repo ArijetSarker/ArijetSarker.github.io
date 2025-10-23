@@ -28,7 +28,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 News
 ======
 - [July 2024] Joined FloridaPoly as an assistant professor. 
-- [April 2024] Defended my Ph.D. thesis titled as “Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking” (Advisor: Dr. Sang-Yoon Chang)
+- [April 2024] Defended my Ph.D. thesis titled as “Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking” (Advisor: Dr. Sang-Yoon Chang).
 - Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 - Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 - Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
@@ -40,7 +40,7 @@ News
 - [Sep 2024] Andrew joined our lab. Welcome Andrew! 
 - [Jul 2024] Satyam joined our lab. Welcome Satyam! 
 - [Jul 2024] Joined FloridaPoly as an Assistant Professor in the Department of Computer Science. 
-- [Apr 2024] Defended my Ph.D. thesis titled as [Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking](https://www.proquest.com/openview/cfc4748b154105e621a63c882c51812f/1?pq-origsite=gscholar&cbl=18750&diss=y).
+- [Apr 2024] Defended my Ph.D. thesis titled as [Digital Trust Management for Distributed, Privacy-Required, and Mobile Networking](https://www.proquest.com/openview/cfc4748b154105e621a63c882c51812f/1?pq-origsite=gscholar&cbl=18750&diss=y) (Advisor: Dr. Sang-Yoon Chang).
 - [Mar 2024] Our Paper [Secure Aggregation for Privacy-preserving Federated Learning in Vehicular Networks](https://dl.acm.org/doi/10.1145/3657644) is accepted in JATS'24.
 - [Feb 2024] Our Paper [Base station gateway to secure user channel access at the first hop edge](https://www.sciencedirect.com/science/article/abs/pii/S1389128623006102) is accepted in Computer Networks.
 - [Jan 2023] Got Best Demo Paper Award in IEEE CCNC'23. 
